@@ -1,1 +1,2 @@
-# jkluckyranch
+# JK Lucky Ranch
+Jednostránkový web
