@@ -1,0 +1,32 @@
+@media(max-width: 500px) {
+    section {
+        padding: 10%;
+    }
+
+    .about-us img {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        float: none;
+    }
+
+    .ride h3 {
+        padding-top: 18px;
+    }
+
+    .camp p:first-of-type {
+        padding-top: 30px;
+    }
+
+    .stable ul li {
+        padding-bottom: 18px;
+    }
+
+    .contact iframe {
+        margin-bottom: 30px;
+    }
+
+    .contact h3 {
+        padding-top: 18px;
+    }
+}
