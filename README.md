@@ -1,15 +1,14 @@
 # JK Lucky Ranch
+One page website
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+![screencapture-jkluckyranch-cz-2022-07-27-19_15_00](https://user-images.githubusercontent.com/104247778/181309259-d2c1fcc4-12a8-498d-9af3-d8afc2d6244b.png)
 
-## General info
-My first website
+## Resources
+Online courses, Czechitas
+* HTML/CSS
+* Bootstrap
 
 ## Technologies
-Project is created with:
 * HTML
 * CSS
 * Bootstrap
